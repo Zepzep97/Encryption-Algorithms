@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Caesar {	//Input funny Fallout New Vegas pun here
+public class caesarCipher {	//Input funny Fallout New Vegas pun here
 
 	public static void main(String[] args) {
 		String message;
